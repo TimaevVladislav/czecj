@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "1class.kg",
+    "url": "https://1class.kg"
+  },
+  "author": {
+    "title": "Авторский тур",
+    "url": "https://1class.kg/avtorskie-tury-iz-bishkeka-ot-first-class-fest-klass/"
+  },
+  "title": "Пражский вояж",
+  "amounOfDays": {
+    "days": "9",
+    "night": "8"
+  },
+  "groupDates": "И при выводе делать проверку, одна группа или две.Так как может быть только одна группа, если одна, то выводится одна надпись",
+  "price": "1550 Евро",
+  "image": "banner.jpg",
+  "travelDate": [
+    {
+      "title": "1 группа",
+      "start": "02.10.2022",
+      "end": "10.10.2022"
+    },
+    {
+      "title":"В малой группе до 15 человека"
+    }
+  ],
+  "buttonTitle": "Забронировать место в группе"
+}

@@ -1,0 +1,48 @@
+{
+  "left": [
+    "© 2022 Все права защищены 1class.kg",
+    "Авторские туры от компании First Class в Бишкеке"
+  ],
+  "center": {
+    "phone": "+996 770 33-55-55",
+    "email": {
+      "name": "firstclasstour@yandex.ru",
+      "icon": "email"
+    },
+    "social": [
+      {
+        "icon": "facebook",
+        "url": "https://www.facebook.com/www.1class.kg/"
+      },
+      {
+        "icon": "instagram",
+        "url": "https://www.instagram.com/edu1class/"
+      },
+      {
+        "icon": "youtube",
+        "url": "https://www.youtube.com/channel/UC9-D0pbaMXYsuhYi5eGSZJw/videos"
+      },
+      {
+        "icon": "telegram",
+        "url": "https://t.me/teztourbishkek"
+      },
+      {
+        "icon": "whatsapp",
+        "url": "https://api.whatsapp.com/send?phone=996770555595"
+      }
+    ]
+  },
+  "right": {
+    "icon": "location",
+    "locations": [
+      {
+        "address": "Адрес: г.Бишкек, ул.Байтик Батыра 102 (бывш.Советская) (рядом с VEFA центром)",
+        "phone":"Тел: 0312 54-00-00, 0770 33-55-55"
+      },
+      {
+        "address": "ул.Логвиненко 26А (м/у пр.Чуй и ул.Киевская)",
+        "phone": "Тел: 0312 62-22-26, 0770 55-55-96"
+      }
+    ]
+  }
+}
